@@ -1,3 +1,4 @@
+# Plugin Info
 === Service Pricer Plus ===
 Contributors: amekr
 Donate link: https://www.paypal.com/paypalme/useramit2016
